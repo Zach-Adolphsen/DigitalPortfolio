@@ -1,0 +1,17 @@
+#intro #introRow #introRow1 #selfPortrait {
+  width: 30%;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#projects #projCard:hover {
+  background-color: dimgrey;
+  color: white;
+}
+
+nav #navItem:hover {
+  background-color: dimgray;
+  color: white;
+  border-radius: 3px;
+}
