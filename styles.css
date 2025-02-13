@@ -6,12 +6,29 @@
 }
 
 #projects #projCard:hover {
-  background-color: dimgrey;
-  color: white;
+  background-color: #cccccc;
 }
 
 nav #navItem:hover {
-  background-color: dimgray;
+  background-color: #cccccc;
+  color: black;
+  border-radius: 5px;
+}
+
+#about #mycarousel {
+  max-width: 250px;
+  max-height: 325px;
+  display: block;
+  margin: auto;
+}
+
+#intro #introRow #introRow1 #selfPortrait {
+  width: 300px;
+  height: 300px;
+  border-radius: 15px;
+}
+
+#projects #projCard #cardGitHub {
+  background-color: #6d3190;
   color: white;
-  border-radius: 3px;
 }
