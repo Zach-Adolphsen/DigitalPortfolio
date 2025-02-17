@@ -16,8 +16,8 @@ nav #navItem:hover {
 }
 
 #about #mycarousel {
-  max-width: 250px;
-  max-height: 325px;
+  max-width: 400px;
+  max-height: 300px;
   display: block;
   margin: auto;
 }
