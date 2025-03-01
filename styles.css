@@ -15,9 +15,13 @@ nav #navItem:hover {
   border-radius: 5px;
 }
 
+nav #navItem {
+  border-radius: 5px;
+}
+
 #about #mycarousel {
   max-width: 400px;
-  max-height: 300px;
+  max-height: 400px;
   display: block;
   margin: auto;
 }
@@ -29,6 +33,15 @@ nav #navItem:hover {
 }
 
 #projects #projCard #cardGitHub {
-  background-color: #6d3190;
+  background-color: #9240c1;
   color: white;
+}
+
+#projects #projCard #cardWar {
+  background-color: #9240c1;
+  color: white;
+}
+
+body {
+  background-color: #a4a4a4;
 }
