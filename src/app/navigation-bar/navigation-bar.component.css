@@ -1,0 +1,11 @@
+nav #navItem:hover {
+  background-color: #b8b7b7;
+  color: black;
+  fill-opacity: 100%;
+  transition: 0.7s;
+}
+
+nav #navItem {
+  border-radius: 5px;
+  color: whitesmoke;
+}
