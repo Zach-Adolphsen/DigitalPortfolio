@@ -2,7 +2,7 @@ nav #navItem:hover {
   background-color: #b8b7b7;
   color: black;
   fill-opacity: 100%;
-  transition: 0.7s;
+  transition: 0.55s;
 }
 
 nav #navItem {
